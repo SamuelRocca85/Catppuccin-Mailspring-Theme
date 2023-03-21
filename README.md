@@ -1,8 +1,8 @@
 # Mailspring Catppuccin Mocha Theme
 
-Mailspring inspired in the (Catpuccin Mocha Theme)[https://github.com/catppuccin/catppuccin] 
+Mailspring inspired in the [Catpuccin Mocha Theme](https://github.com/catppuccin/catppuccin)
 
-!()[./screenshot/theme.png]
+![](./screenshot/theme.png)
 
 ## Installing
 
