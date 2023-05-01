@@ -4,14 +4,14 @@ Mailspring inspired in the [Catpuccin Mocha Theme](https://github.com/catppuccin
 
 ![](./screenshot/theme.png)
 
-## Installing
+## Installing Theme
 
-Creating a new theme in Mailspring is easy! Here's how you can do it.
+Installing a new theme in Mailspring is easy! Here's how you can do it.
 
 1. Download the project files
 
-2. Open Mailspring  and install the theme by going to `Mailspring > Install New Theme...`
-   and selecting the directory.
+2. Open Mailspring  and install the theme by going to `Mailspring > Edit > Install New Theme...`
+   and selecting the theme directory.
 
 ## Structure
 ```
